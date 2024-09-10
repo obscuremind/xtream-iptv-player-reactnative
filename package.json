@@ -37,7 +37,7 @@
     "react-native-slider": "^0.11.0",
     "react-native-vlc-player": "^0.1.0",
     "react-native-vlcplayer": "git+https://github.com/zGrav/react-native-vlcplayer",
-    "react-navigation": "^1.0.0-beta.23",
+    "react-navigation": "^5.0.0",
     "sprintf-js": "git+https://github.com/zGrav/sprintf.js"
   },
   "repository": "http://zgrav.pro:8080/zgrav/xtream-iptv-player-reactnative"
